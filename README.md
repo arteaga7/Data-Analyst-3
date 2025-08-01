@@ -13,7 +13,7 @@ This repository presents a sales funnel analysis of a company. The results of th
 **Objective:** To clean data and create data (from the cleaned one) to determine whether there is a statistically significant difference between the samples and their proportions, considering outliers and non-normal distributions to make decisive decisions.
 
 ### Steps
-First, the exploratory data analysis (EDA) is performed to show the data in the non-cleaned datasets. Second, the data preprocessing is made, which consist of filling null values, dropping duplicates, verifying if data format is correct and processing the outliers. Third, to create data from the previously cleaned one. Fourth, the formal Mann-Whitney U and the proportion tests are performed to determine if the following questions:
+First, the exploratory data analysis (EDA) is performed to show the data in the non-cleaned datasets. Second, the data preprocessing is made, which consist of filling null values, dropping duplicates, verifying if data format is correct and processing the outliers. Third, to create data from the previously cleaned one. Fourth, the formal Mann-Whitney U and the proportion tests are performed to determine if:
 
 • There is a statistically significant difference between the samples and their proportions in the A/A test (to verify if A/A test was performed correctly).
 
